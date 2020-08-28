@@ -1,11 +1,13 @@
 @media (min-width: 320px) {
     .wrap__title {
        font-size: 15px;
+       font-width: 400;
     }
 }
 
 @media (min-width: 641px) {
     .wrap__title {
        font-size: 32px;
+       font-width: 600;
     }
 }
