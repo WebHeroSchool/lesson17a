@@ -11,3 +11,10 @@
        font-width: 600px;
     }
 }
+
+@media (min-width: 961px) {
+    .wrap__title {
+       font-size: 52px;
+       font-width: 800px;
+    }
+}
